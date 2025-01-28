@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
-I'm **Dripto Bhattacharyya**, a passionate **AI/ML Engineer** and **Data Engineer** with a knack for solving real-world problems through innovative solutions.  
+I'm **Dripto**, a passionate **AI/ML Engineer** and **Data Analyst** with a knack for solving real-world problems through innovative solutions.  
 
 ---
 
