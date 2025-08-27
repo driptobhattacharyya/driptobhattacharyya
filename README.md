@@ -39,7 +39,7 @@ I'm **Dripto**, a passionate **AI Engineer** and **Data Analyst** with a knack f
 ### 💡 **Projects I'm Proud Of**  
 - **[Smart Attendance System](#)**: AI-powered platform integrating geolocation, face recognition, and Bluetooth proximity for seamless attendance management.  
 - **[Online Learning Platform](#)**: Features AI-based tools for flashcards, content summarization, and code assistance, enhancing education with innovative solutions.  
-- **[AI-Powered Disaster Relief Assistant](#)**: Combines geocoding, social media analysis, and local translations to accelerate disaster response efforts.  
+- **[AI-Powered Task Planner](#)**: Stay tuned to know more 😉.  
 
 ---
 
