@@ -3,13 +3,13 @@
 
 <img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
-I'm **Dripto**, a passionate **AI/ML Engineer** and **Data Analyst** with a knack for solving real-world problems through innovative solutions.  
+I'm **Dripto**, a passionate **AI Engineer** and **Data Analyst** with a knack for solving real-world problems through innovative solutions.  
 
 ---
 
 ### 🔭 **What I'm Currently Working On**  
-- 🚀 Enhancing my **Smart Attendance System** project with advanced features like face recognition and geolocation tracking.  
-- 🤖 Exploring **Retrieval-Augmented Generation (RAG) pipelines** and **LLM fine-tuning** for cutting-edge AI applications.  
+- 🚀 Building simple Agentic AI architectures.  
+- 🤖 Exploring **Graph RAG pipelines** and **LLM fine-tuning** for cutting-edge AI applications.  
 
 ---
 
